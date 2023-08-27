@@ -22,7 +22,7 @@ Aşağıdaki adımları izleyerek projeyi yerel bir geliştirme ortamında başl
 
    Bu komut, Vite geliştirme sunucusunu başlatacak ve uygulamanızı `http://localhost:5173` adresinde görüntüleyebilirsiniz.
 
-3. **Uygulamayı Derleme:** Uygulamayı derlemek ve optimize etmek için aşağıdaki komutu kullanabilirsiniz:
+3. **Uygulamayı Derleme:** Uygulamayı derlemek için aşağıdaki komutu kullanabilirsiniz:
 
    ```
    yarn build
