@@ -14,7 +14,7 @@ Aşağıdaki adımları izleyerek projeyi yerel bir geliştirme ortamında başl
    yarn
    ```
 
-2. **Geliştirme Sunucusunu Başlatın:** Geliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın:
+2. **Geliştirme Sunucusunu Başlatın:** Development sunucusunu başlatmak için aşağıdaki komutu kullanın:
 
    ```
    yarn dev
@@ -31,9 +31,9 @@ Aşağıdaki adımları izleyerek projeyi yerel bir geliştirme ortamında başl
 ## Kullanılan Teknolojiler
 
 - React: Kullanıcı arayüzü oluşturmak için kullanılan kütüphane.
-- Redux Toolkit: Durum yönetimi için kullanılan kütüphane.
+- Redux Toolkit: State yönetimi için kullanılan kütüphane.
 - Ant Design (Antd): Şık ve kullanıcı dostu arayüz bileşenleri sağlayan bir kütüphane.
 - Axios: HTTP istekleri yapmak için kullanılan bir kütüphane.
 - lodash: Yardımcı veri işleme işlevleri sağlayan bir yardımcı kütüphane.
-- React Router: Sayfa yönlendirmesi için kullanılan bir kütüphane.
+- React Router: Sayfa yönlendirmesi (Routing) için kullanılan bir kütüphane.
 - Framer Motion: Animasyonlar için kullanılan bir kütüphane.
