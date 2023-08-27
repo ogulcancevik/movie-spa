@@ -3,7 +3,7 @@ import DataGrid from '../components/DataGrid';
 import SearchBar from '../components/SearchBar';
 import Switcher from '../components/Switcher';
 import YearBar from '../components/YearBar';
-import '../styles/HomeView.css';
+import '../styles/homeView.css';
 const HomeView = () => {
   return (
     <motion.div
