@@ -2,6 +2,8 @@
 
 Movie-SPA, OMDB API kullanarak film verilerini çeken ve gösteren bir tek sayfa uygulamasıdır.
 
+Canlı demo: [https://movie-spa-omdb.netlify.app/](https://movie-spa-omdb.netlify.app/)
+
 ## Başlarken
 
 Aşağıdaki adımları izleyerek projeyi yerel bir geliştirme ortamında başlatabilirsiniz.
